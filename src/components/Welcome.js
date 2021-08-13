@@ -11,8 +11,8 @@ const Welcome = () => {
   return (
     <WelcomeSection>
       <Title>
-        <h1>Welcome to my <span>portfolio</span></h1>
-        <p>Together we the people achieve more than any single person could ever do alone.</p>
+        <p>I am sujon mahamud.</p>
+        <h1>Full-Stack <span>Web</span> Developer.</h1>
         
         <Link to="/">Get Started</Link>
 
