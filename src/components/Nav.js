@@ -18,9 +18,10 @@ const Nav = () => {
       </div>
       <div className="socials">
         <ul>
-          <li>
-            <Link to="/"></Link>
-          </li>
+          <li><Link to="/"></Link></li>
+          <li><Link to="/"></Link></li>
+          <li><Link to="/"></Link></li>
+          <li><Link to="/"></Link></li>
         </ul>
       </div>
     </div>
