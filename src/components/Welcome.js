@@ -12,9 +12,16 @@ const Welcome = () => {
     <WelcomeSection>
       <Title>
         <p>I am sujon mahamud.</p>
-        <h1>Full-Stack <span>Web</span> Developer.</h1>
+        <h1>Full-Stack <span>Web Application</span> Developer.</h1>
         
-        <Link to="/">Get Started</Link>
+        <div className="socials">
+        <ul>
+          <li><Link to="/"></Link></li>
+          <li><Link to="/"></Link></li>
+          <li><Link to="/"></Link></li>
+          <li><Link to="/"></Link></li>
+        </ul>
+      </div>
 
       </Title>
       <div className="welcome-img">
